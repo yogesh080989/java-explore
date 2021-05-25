@@ -11,7 +11,7 @@ public class FilterListElement {
 
 		List<Integer> list = new ArrayList();// initializing list
 		// adding element into list
-		for (int i = 1; i <= 20; i++) {
+		for (int i = 1; i <= 40; i++) {
 			list.add(i);
 		}
 
